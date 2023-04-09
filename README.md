@@ -1,5 +1,7 @@
 <h1 align="center">:file_cabinet: We Care - Landing Page <h1>
 
+![img desktop](./assets/images/img-aplicacao-desktop.PNG)
+![img mobile](./assets/images/img-aplicacao-mobile.PNG)
 ## :memo: Descrição
 Essa Landing Page foi criada inicialmente para praticar os conceitos básicos de HTML e CSS (desde a estilização até a responsividade).
 
